@@ -6,7 +6,6 @@ Copyright (c) 2026 岡村 剛
 
 ---
 This project is based on the tutorial and techniques by Ducky 3D.  
-Original Inspiration: https://www.youtube.com/watch?v=rtPzXrZ23k0&t=192s
 ---
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
