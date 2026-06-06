@@ -64,4 +64,5 @@ Copyright (c) 2026 岡村 剛
 # クレジット
 
 このプロジェクトを使用または再配布する場合は、元のリポジトリへのリンクを記載してください：  
-https://github.com/NEO1842/Blender-Fire-Energy-Sphere
+
+https://github.com/NEO1842/Blender-Pancake-Scene
