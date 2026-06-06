@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
----English--- 
+---English--- Click on the image to display the image file.
 </p>
 
 <div align="center">
