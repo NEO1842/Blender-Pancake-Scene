@@ -7,6 +7,8 @@ Copyright (c) 2026 岡村 剛
 ---
 This project is based on the tutorial and techniques by Mdesign.  
 
+tutorial https://www.youtube.com/watch?v=Vtz1E0xwCm8
+
 ---
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
