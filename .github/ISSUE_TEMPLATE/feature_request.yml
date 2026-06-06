@@ -1,0 +1,46 @@
+name: ✨ Feature Request
+description: Suggest an improvement or new addition to the scene
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got a cool idea? We'd love to hear it! 🎨
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: 🚀 Idea
+      description: Describe your feature or improvement clearly
+      placeholder: e.g. Add a coffee cup prop next to the pancakes
+    validations:
+      required: true
+
+  - type: textarea
+    id: benefit
+    attributes:
+      label: 🧠 Benefit
+      description: Why would this improve the scene or project?
+      placeholder: e.g. It would make the scene feel more like a breakfast setting
+
+  - type: textarea
+    id: references
+    attributes:
+      label: 🖼️ References (Optional)
+      description: Add any screenshots, renders, or links for inspiration
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🔥 Priority
+      options:
+        - Triage
+        - Critical
+        - High
+        - Medium
+        - Low
+        - Backlog
+    validations:
+      required: true
