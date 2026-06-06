@@ -68,7 +68,7 @@ This project is licensed under the MIT License.
 </p>
 
 <p align="center">
----日本語--- 画像をクリックするとされます。
+---日本語--- 画像をクリックすると画像ファイルが表示されます。
 </p>
 
 <div align="center">
