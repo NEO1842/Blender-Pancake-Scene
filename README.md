@@ -35,13 +35,13 @@ The scene can be freely modified and used for learning 3D modeling workflows or 
 
 # Software Requirement
 
-Blender Version 3.4 LTS
+Blender Version 3.4
 
 # Rendering Settings
 
 Engine: Cycles
 
-Sampling: 256
+Sampling: 1024
 
 Denoising: Enabled
 
@@ -98,13 +98,13 @@ This project is licensed under the MIT License.
 
 # ソフトウェア要件
 
-Blender バージョン3.4 LTS
+Blender バージョン3.4
 
 # レンダリング設定
 
 レンダリングエンジン：Cycles
 
-サンプリング数：256
+サンプリング数：1024
 
 ノイズ除去：あり
 
