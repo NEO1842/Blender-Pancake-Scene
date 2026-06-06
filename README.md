@@ -1,7 +1,7 @@
 <h1 align="center">Blender Pancake Scene</h1>
 
 <p align="center">
-🥞 Create a warm, delicious pancake scene using shader nodes and realistic materials.
+🥞 Create a cute, cartoon-style pancake scene with stylized modeling and vibrant materials.
 </p>
 
 <p align="center">
@@ -16,21 +16,22 @@
 
 # Blender-Pancake-Scene
 
-A cozy pancake scene created in Blender using Shader Nodes and realistic lighting.
+A cute cartoon-style pancake scene created in Blender using stylized modeling and vibrant flat materials.
 
 # Overview
 
-This project is a Blender scene designed to create a warm and appetizing pancake visual.
+This project is a Blender scene featuring a stacked pancake with syrup, butter, and blueberries on a plate.
 
-It uses Shader Nodes to generate realistic textures and materials, combined with soft lighting to bring out the fluffy layers and golden-brown surface of a freshly made stack of pancakes.
+It uses stylized 3D modeling combined with smooth, flat-color materials and soft lighting to achieve a fun and appealing cartoon look.
 
-The scene can be freely modified and used for learning shader workflows or for creating similar food visualization styles.
+The scene can be freely modified and used for learning 3D modeling workflows or for creating similar stylized food visuals.
 
 ## Features
 
-- Shader-based material and texture work
-- Customizable colors, roughness, and surface detail
-- Useful for learning food rendering workflows and lighting techniques
+- Stylized cartoon-style 3D modeling
+- Smooth, vibrant flat-color materials
+- Includes syrup, butter, blueberries, and plate props
+- Useful for learning stylized modeling and material workflows
 
 # Software Requirement
 
@@ -63,7 +64,7 @@ This project is licensed under the MIT License.
 <h1 align="center">Blender Pancake Scene</h1>
 
 <p align="center">
-🥞 シェーダーノードとリアルなマテリアルで、温かみのあるパンケーキシーンを作成します。
+🥞 スタイライズドなモデリングと鮮やかなマテリアルで、かわいいカートゥーン風パンケーキシーンを作成します。
 </p>
 
 <p align="center">
@@ -78,21 +79,22 @@ This project is licensed under the MIT License.
 
 # Blender-Pancake-Scene
 
-シェーダーノードとリアルなライティングを使用して作成された、パンケーキシーンのBlenderファイルです。
+スタイライズドな3Dモデリングと鮮やかなフラットマテリアルを使用して作成された、カートゥーン風パンケーキシーンのBlenderファイルです。
 
 # 概要
 
-このプロジェクトは、温かみのある美味しそうなパンケーキのビジュアルを作成するためのBlenderシーンです。
+このプロジェクトは、シロップ・バター・ブルーベリーをトッピングした積み重なったパンケーキをお皿に盛り付けたBlenderシーンです。
 
-シェーダーノードを使用して、ふんわりとした層と黄金色の表面をリアルに再現しています。
+スタイライズドな3Dモデリングと、なめらかなフラットカラーマテリアル、やわらかいライティングを組み合わせることで、ポップでかわいらしいカートゥーン調のビジュアルを実現しています。
 
-シェーダー構成の学習や、フード系ビジュアライゼーションのベースとして自由に改変して使用できます。
+3Dモデリングのワークフロー学習や、スタイライズドなフードビジュアル制作のベースとして自由に改変して使用できます。
 
 ## 特徴
 
-- シェーダーノードによるマテリアル・テクスチャ表現
-- 色・粗さ・表面の細部を自由に調整可能
-- フードレンダリングのワークフロー学習やライティング実験に適しています
+- カートゥーン風スタイライズド3Dモデリング
+- なめらかで鮮やかなフラットカラーマテリアル
+- シロップ・バター・ブルーベリー・お皿などのプロップを含む
+- スタイライズドモデリング・マテリアルワークフローの学習に適しています
 
 # ソフトウェア要件
 
