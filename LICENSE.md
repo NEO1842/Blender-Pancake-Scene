@@ -32,7 +32,8 @@ SOFTWARE.
 # Credit
 
 If you use or redistribute this project, please include a link to the original repository:  
-https://github.com/NEO1842/Blender-Fire-Energy-Sphere
+
+https://github.com/NEO1842/Blender-Pancake-Scene
 
 ---
 
