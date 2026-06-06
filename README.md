@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-<a href="#">
+<a href="Blender%20Pancake%20Scene/Pancake%20Scene.png">
 <img src="Blender%20Pancake%20Scene/Pancake%20Scene.png" width="600">
 </a>
 </div>
@@ -72,7 +72,7 @@ This project is licensed under the MIT License.
 </p>
 
 <div align="center">
-<a href="#">
+<a href="Blender%20Pancake%20Scene/Pancake%20Scene.png">
 <img src="Blender%20Pancake%20Scene/Pancake%20Scene.png" width="600">
 </a>
 </div>
