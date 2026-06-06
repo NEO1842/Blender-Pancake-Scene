@@ -1,0 +1,39 @@
+name: 📋 Task
+description: A general task or to-do item for the project
+title: "[Task]: "
+labels: ["task", "triage"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for general tasks that aren't bugs or feature requests. 🛠️
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: 📋 Summary
+      description: What needs to be done?
+      placeholder: e.g. Update README with new render settings
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: 📝 Details (Optional)
+      description: Any additional context or notes?
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🔥 Priority
+      options:
+        - Triage
+        - Critical
+        - High
+        - Medium
+        - Low
+        - Backlog
+    validations:
+      required: true
