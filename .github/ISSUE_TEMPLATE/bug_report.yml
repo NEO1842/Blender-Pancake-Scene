@@ -1,0 +1,71 @@
+name: 🐛 Bug Report
+description: Report a bug or unexpected behavior in the scene
+title: "[Bug]: "
+labels: ["bug", "triage"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! 🙏
+        Please fill in as much detail as possible.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 🐛 Description
+      description: What happened? What did you expect to happen?
+      placeholder: Describe the bug clearly...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 🔁 Steps to Reproduce
+      placeholder: |
+        1. Open the .blend file in Blender
+        2. Go to...
+        3. See the issue...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: ✅ Expected Behavior
+      placeholder: What should have happened?
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 🖼️ Screenshots or Renders
+      description: Add screenshots or render outputs if applicable.
+
+  - type: input
+    id: blender_version
+    attributes:
+      label: 🧊 Blender Version
+      placeholder: e.g. 3.4.1
+    validations:
+      required: true
+
+  - type: input
+    id: os
+    attributes:
+      label: 💻 Operating System
+      placeholder: e.g. Windows 11, macOS 14, Ubuntu 22.04
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🔥 Priority
+      options:
+        - Triage
+        - Critical
+        - High
+        - Medium
+        - Low
+        - Backlog
+    validations:
+      required: true
