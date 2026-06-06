@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
----English--- Click the image to watch the preview.
+---English--- Click the image to .
 </p>
 
 <div align="center">
